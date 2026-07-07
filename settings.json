@@ -2,8 +2,8 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "ALEX BOT",
-    "password": "",
-    "type": "offline"
+    "password": panos123rafa,
+    "type": "online"
   },
   "server": {
     "ip": "SMPSummerVibes.aternos.me",
